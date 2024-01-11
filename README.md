@@ -1,5 +1,4 @@
 # MERN Bootcamp 2024
-
 ## Git & GitHub
 
 - Intro to Git & Branches
