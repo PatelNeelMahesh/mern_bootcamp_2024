@@ -38,4 +38,12 @@ Example of merge conflict:
 `git commit -m "<Commit Message>"`
 9. Push the changes to the remote repositories.  
 `git push -u <remoteBranch> <localBranch>`
-10. Now to demostrate the pull command, commit changes to the remote repositories from github 
+10. Now to demostrate the pull command, commit changes to the remote repositories from github desktop or browser only.
+11. Now make some changes to the local repo -> add -> commit.
+12. If you try to push the changes now, git will prompt you with a warning that remote repo is diverted, pull changes to sync.  
+`git pull` 
+13. Pull the changes and resolve merge conflict if any.
+14. Push the changes now.
+
+## Pull Request
+We can contribute to someone else's repository using pull request.
