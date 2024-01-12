@@ -56,8 +56,9 @@ By following this methodology, the company can effectively address the problem o
   1. SignUp and Login
   2. Filter Option
   3. Search Option
-  4. Cart Option
-  5. Payment Gateway
+  4. Product selection and Viewing
+  5. Cart Option
+  6. Payment Gateway
 - For Sellers
   1. SignUp and Login
   2. Option for Listing clothes to be sold
