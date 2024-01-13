@@ -1,3 +1,4 @@
+console.log("Run JavaScript Code Here.");
 # Project Initial Report
 
 ## Amit Gupta & 12112447
