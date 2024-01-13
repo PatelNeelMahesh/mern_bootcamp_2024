@@ -17,6 +17,17 @@ There are may Student Organizations / Departments that have a large number of st
 The main framework behind the solution of the problem statement is that as Following :  
 ![alt text](https://github.com/Xta1neR/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/readme%20assets/Strategy%20and%20planning.png)
 
+The above Flowchart explains what is the hierarchy of Student Organization Clubs. So thus the website will be having the access to features for each specifics as below, starting from the bottom of hierarchy to the top is listed below. 
+
+### Recruits : 
+- Can go through the Registration form and apply to the Organization of thier choice. 
+- Can schedule an Interview for the selection process of the Organization. 
+- After getting selected for applied Organization, they can Select thier roles after exploring the work profiles. 
+
+### Members : 
+- Can go through the Announcements and Messeges made by Domain Heads / CEOs / Faculties. 
+
+
 
 
 ### - List of features you want to implement.
