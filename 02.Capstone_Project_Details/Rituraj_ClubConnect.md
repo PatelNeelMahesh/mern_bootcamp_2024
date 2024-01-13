@@ -12,7 +12,8 @@
 
 
 ### - How do you want to solve it ?
-    
+    The main framework behind the solution of the problem statement is that as Following :  
+    ![flowchart of Department Structure.](readme assets/Strategy and planning.png)
 
 
 
