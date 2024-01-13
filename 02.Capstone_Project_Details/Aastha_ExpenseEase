@@ -1,0 +1,84 @@
+Name: Aastha Chaudhary.
+Registration Number: 12116641.
+
+Personal Expense Tracking System
+Project Name: ExpenseEase
+
+**Which problem project is solving?
+The Expense Tracking System aims to address the challenge of managing personal expenses efficiently. It solves the problem of manual and time-consuming expense tracking, providing users with a streamlined and organized way to monitor their financial transactions.
+
+**Existing Similar Solutions
+
+1)Expensify(https://www.expensify.com/)
+Features:
+	Business expense reporting.
+	Receipt scanning and expense tracking.
+	Integration with accounting software.
+
+2)YNAB(https://www.ynab.com/)
+Features:
+	Goal tracking for expenses.
+	Educational resources on budgeting.
+	Real-time synchronization.
+
+**Solution Approach:
+To address the limitations of existing solutions, my Personal Expense Tracking System will focus on:
+
+1)User-Friendly Interface:
+Designing an intuitive and user-friendly interface for personal expense tracking.
+
+2)Automation and Integration:
+Automating expense entry where possible.
+
+3)Customization and Categories:
+Allowing users to create custom categories for expenses.
+Providing smart suggestions based on spending patterns.
+
+4)Data Security:
+Ensuring robust security measures for the storage and handling of personal financial data.
+
+5)Dashboard and Visualizations:
+Creating a dashboard that displays visualizations of transactions.
+Incorporating pie charts or graphs for a quick overview of spending patterns.
+
+6)History Section:
+Including a history section to show recent history of added income and expenses.
+Providing a chronological view of financial activities.
+
+7)Category Management:
+Allow users to categorize expenses into different categories.
+Enhancing visualizations to show spending breakdowns by category.
+
+**List of Features:
+1)Expense Entry:
+Allow users to manually enter personal expenses with details.
+Provide options for uploading receipts.
+
+2)Category Management:
+Allow users to create, edit, and delete expense categories.
+Auto-categorization based on transaction history.
+
+3)Budget Tracking:
+Set monthly or custom period budgets for different expense categories.
+Receive notifications when nearing or exceeding budget limits.
+
+4)Reports and Insights:
+Generate detailed reports on personal spending patterns.
+Visualize expense data through graphs and charts.
+
+5)Search and Filters:
+Implement robust search functionality for locating specific transactions.
+Allow users to apply filters based on date, category, or amount.
+
+6)User Authentication and Security:
+Implement secure user authentication.
+Encrypt and protect user data with industry-standard security measures.
+
+7)Responsive Design:
+Ensure the application is responsive and accessible on various devices.
+
+8)Smart Suggestions:
+Provide intelligent suggestions for categorizing expenses based on past behavior.
+
+9)Notifications:
+Send notifications for upcoming bills or when approaching budget limits.
