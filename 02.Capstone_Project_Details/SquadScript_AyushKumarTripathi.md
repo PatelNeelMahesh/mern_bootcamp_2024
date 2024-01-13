@@ -24,12 +24,12 @@
     - Chat functionality for communication.
     - Dual code editor - personal and main.
   - 2. **Integration with GitHub:**
-    - Seamless integration with GitHub for version control.
+    - Seamless integration with GitHub for version control repositories management.
   - 3. **Live Output Panel:**
     - Real-time output for HTML, CSS, JS code.
   - 4. **User Management:**
     - Login and signup functionality.
-    - User profile pages with activity tracking.
+    - User profile pages.
   - 5. **Code File Handling:**
     - Uploading code files to the code editor.
     - Multiple people editing the code simultaneously.
