@@ -9,7 +9,7 @@
 
 - **Project Name:** QuantumKrpto
 - **Problem Statement:**
-  The cryptocurrency market lacks a comprehensive platform for managing crypto wallets, facilitating cryptocurrency exchanges, creating and trading NFTs, and staying updated with the latest information. Users face challenges in seamlessly managing their crypto portfolios and engaging in diverse crypto activities from a single, user-friendly interface.
+  The cryptocurrency market lacks a comprehensive platform for creating and trading NFTs, and staying updated with the latest information. Users face challenges in seamlessly managing their crypto portfolios and engaging in diverse crypto activities from a single, user-friendly interface.
 
 ## Existing Similar Solutions
 
@@ -62,38 +62,26 @@
        - Cryptocurrency news and market analysis
        - Multimedia content and educational resources
 
-## Proposed Solution
+## Project Scope
 
 - **Approach:**
-  Krpto aims to address the existing challenges by providing a unified platform that seamlessly integrates crypto wallet management, cryptocurrency exchanges, NFT creation and trading, crypto portfolio management, and the latest information hub. The platform will prioritize user-friendly interfaces and comprehensive features to create an all-encompassing solution for crypto enthusiasts.
+  QuantumKrpto aims to provide a streamlined platform focusing on NFT buying and selling, crypto portfolio management, and offering the latest information hub. The platform will prioritize user-friendly interfaces and comprehensive features to cater specifically to users interested in these aspects of the crypto market.
 
 ## Features to Implement
 
-1. **Crypto Wallet Management:**
+1. **NFT Marketplace:**
 
-   - User-friendly interface for wallet creation and management
-   - Support for a wide range of cryptocurrencies
-   - Real-time transaction tracking and notifications
-
-2. **Cryptocurrency Exchange:**
-
-   - Simplified exchange interface for buying and selling cryptocurrencies
-   - Integration with popular exchanges for diverse trading options
-   - Real-time market data and analytics
-
-3. **NFT Creation, Buying, and Selling:**
-
-   - NFT creation tools with customizable options
    - User-friendly marketplace for buying and selling NFTs
-   - Integration with blockchain for secure transactions
+   - Seamless integration with blockchain for secure transactions
+   - Customizable options for sellers and buyers
 
-4. **Crypto Portfolio Management:**
+2. **Crypto Portfolio Management:**
 
-   - Comprehensive portfolio tracking with real-time updates
-   - Analytics tools for assessing portfolio performance
-   - Integration with exchanges for automatic portfolio updates
+   - Beginner-friendly portfolio tracking with real-time updates
+   - Easy-to-use analytics tools for assessing portfolio performance
+   - Integration with essential features for automatic updates
 
-5. **Latest Crypto Information Hub:**
+3. **Latest Crypto Information Hub:**
    - Aggregated news and updates from reliable sources
    - Market analysis tools with trend predictions
-   - Integration with wallet and exchange features for immediate action
+   - Real-time information on cryptocurrency prices and market trends
