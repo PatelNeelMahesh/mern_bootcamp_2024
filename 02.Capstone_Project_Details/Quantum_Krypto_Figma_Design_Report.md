@@ -58,8 +58,8 @@ Utilized a cohesive design system to maintain consistency throughout the Quantum
 
 Explore interactive prototypes showcasing the user flow and interactions:
 
-- [Quantum Krypto Prototype](02.Capstone_Project_Details/Assets/1.png)
-  ![Image 1](02.Capstone_Project_Details/Assets/1.png)
+- [Quantum Krypto Prototype](mern_bootcamp_2024/02.Capstone_Project_Details/Assets/1.png)
+  ![Image 1](mern_bootcamp_2024/02.Capstone_Project_Details/Assets/1.png)
 
   ![Quantum Krypto GIF](URL)
   ...
