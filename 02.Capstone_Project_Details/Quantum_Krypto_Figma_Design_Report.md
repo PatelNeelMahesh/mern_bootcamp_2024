@@ -58,8 +58,11 @@ Utilized a cohesive design system to maintain consistency throughout the Quantum
 
 Explore interactive prototypes showcasing the user flow and interactions:
 
-- [Quantum Krypto Prototype](URL)
-  ![Quantum Krypto GIF](URL)
+- [Quantum Krypto Prototype](https://github.com/SCORLEOs773/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/Assets/1.png?raw=true)
+  (https://github.com/SCORLEOs773/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/Assets/2.png?raw=true)
+  (https://github.com/SCORLEOs773/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/Assets/3.png?raw=true)
+  (https://github.com/SCORLEOs773/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/Assets/4.png?raw=true)
+  ![Quantum Krypto GIF](https://github.com/SCORLEOs773/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/Assets/vid%201.mp4)
   ...
 
 ## Challenges and Solutions
