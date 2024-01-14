@@ -58,10 +58,17 @@ Utilized a cohesive design system to maintain consistency throughout the Quantum
 
 Explore interactive prototypes showcasing the user flow and interactions:
 
-- [Quantum Krypto Prototype](Assets/1.png)
+- [Quantum Krypto Designs]
+
   ![Image 1](Assets/1.png)
 
-  ![Quantum Krypto GIF](URL)
+  ![Image 2](Assets/2.png)
+
+  ![Image 3](Assets/3.png)
+
+  ![Image 4](Assets/4.png)
+
+  <video src="Assets/vid%201.mp4" controls title="GIF"></video>
   ...
 
 ## Challenges and Solutions
