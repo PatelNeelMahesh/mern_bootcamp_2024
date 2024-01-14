@@ -68,8 +68,7 @@ Explore interactive prototypes showcasing the user flow and interactions:
 
   ![Image 4](Assets/4.png)
 
-  <video src="Assets/vid%201.mp4" controls title="GIF"></video>
-  ...
+  ![GIF 1](<Assets/vid 1.gif>)
 
 ## Challenges and Solutions
 
