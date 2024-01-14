@@ -31,7 +31,8 @@
   - **Practice Forum**
   - **Group Study Forum**
   - **Stress Relief Space**
-  - 
+
+  
 ## Steps to follow when you raise a PR.
 
 - Fork the mern_bootcamp_2024 repo [https://github.com/PatelNeelMahesh/mern_bootcamp_2024]
