@@ -42,3 +42,11 @@
 - Loyalty programs and rewards for regular customers.
 - Responsive mobile app for on-the-go shopping.
 
+## Proposed Solution
+
+Approach :
+  While these existing solutions are successful, JaiKaaliThreads aims to focus on the unique needs of local cloth businesses.
+  It will offer a personalized touch by showcasing the distinct collection from Jai Kaali Cloth Stores. Additionally, the 
+  platform can incorporate features that cater specifically to the preferences of local customers, potentially enhancing the 
+  shopping experience.
+
