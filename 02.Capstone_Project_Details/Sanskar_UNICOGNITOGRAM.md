@@ -3,7 +3,7 @@
 ## SANSKAR UPADHYAY
 ## 12112040
 
-### Project Name: ANONYMOUS SOCIAL NETWORKING SITE FOR CAMPUS (draft name)
+### Project Name: UNICOGNITOGRAM
 
 - Which problem Project is Solving?
 
