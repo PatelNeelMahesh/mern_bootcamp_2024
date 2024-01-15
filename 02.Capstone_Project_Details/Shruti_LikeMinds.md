@@ -11,6 +11,7 @@ Project Name: LikeMinds
   The people you surround yourself with really matters. But finding like-minded people in the college, who are as ambitious as you are,
   as compeititive as you are, having similar interests and learning patterns was a challenge. Therefore, I want to build a platform wherein
   students of similar domain of interests can come together, learn together, build together and ultimately grow together.
+  I want to make it particularly for my college. In order to keep it neat and precise.
 
 - What are existing similar solutions?
 
