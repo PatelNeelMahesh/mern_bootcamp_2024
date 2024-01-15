@@ -1,6 +1,6 @@
 # MERN Bootcamp 2024
 
-## Git & GitHub
+##  Git & GitHub
 
 - Intro to Git & Branches
 - Working with GitHub
