@@ -43,6 +43,15 @@ const NestedTernary = isRaining
   ? "Wear a coat"
   : "Enjoy the weather";
 
+  // if(isRaining)
+  // {? "Take an umbrella"}
+  // else if(: isSnowing)
+  // {? "Wear a coat"}
+  // else{
+  // : "Enjoy the weather";
+  // }
+
+  
 console.log(NestedTernary);
 
 // Switch Statement

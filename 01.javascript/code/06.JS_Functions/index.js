@@ -30,6 +30,9 @@ const product2 = multiply(4, 3); // Uses provided y = 3
 console.log(product1); // Output: 8
 console.log(product2); // Output: 12
 
+const product3 = multiply2(2, undefined); // y takes the default value of 2, x is 2
+console.log(product1); // Outputs 4
+
 // Anonymous Functions (Function Expressions)
 // Functions can be assigned to variables as anonymous functions or function expressions.
 const subtract = function (a, b) {
