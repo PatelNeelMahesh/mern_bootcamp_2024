@@ -11,11 +11,11 @@
 - What are existing similar solutions?
 
   - Bumble: https://bumble.com/bff
-  nextdoor: https://nextdoor.com
-  Meetup: https://www.meetup.com
-  We3: https://www.we3app.com
-  SLOWLY: https://slowly.app
-  Friended: https://www.friended.com
+  - nextdoor: https://nextdoor.com
+  - Meetup: https://www.meetup.com
+  - We3: https://www.we3app.com
+  - SLOWLY: https://slowly.app
+  - Friended: https://www.friended.com
 
 - How do you want to solve it?
 
