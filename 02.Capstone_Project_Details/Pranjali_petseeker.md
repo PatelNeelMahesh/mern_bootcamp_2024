@@ -1,16 +1,23 @@
-Pranjali Pandey 12114301
-Project Name: PETSEEKER
-•	Which problem Project is Solving?
+**Pranjali Pandey 12114301**
+
+**Project Name: PETSEEKER**
+
+
+*•	Which problem Project is Solving?*
+
 •	Petseeker, a solution addressing the challenges in pet adoption and rehoming. This website solves the challenges in pet adoption and rehoming by offering a user-friendly platform that connects pet owners with potential adopters. It addresses issues such as fragmented adoption processes, lack of comprehensive information about pets, communication barriers, and the need for trust and transparency in the adoption journey. The platform streamlines the process, providing detailed pet listings, secure communication channels, and transparent reviews, creating a positive experience for both pets and their future families.
 
-•	What are existing similar solutions?
+*•	What are existing similar solutions?*
+
 o	Petfinder (petfinder.com)
 o	Adopt A Pet (adoptapet.com)
 o	Petco (petco.com)
 o	PetSmart Charities (petsmartcharities.org
 o	AKC Marketplace (marketplace.akc.org)
 o	Craigslist (craigslist.org)
-•	How do you want to solve it?
+
+*•	How do you want to solve it?*
+
 •	Streamlined Adoption Process:
 Steps: Simplify the adoption process by implementing a clear and user-friendly interface. Minimize paperwork and ensure that key information about pets is readily available to potential adopters.
 •	Comprehensive Pet Listings:
@@ -30,7 +37,8 @@ Steps: Design visually appealing cards to display nearby pets. Include eye-catch
 •	Heartwarming Journey Stories:
 Steps: Create a carousel or dedicated section for real-life pet adoption success stories. Encourage users to share their experiences, creating a sense of community and inspiration for others.
 
-•	List of features you want to implement.
+*•	List of features you want to implement.*
+
 o	Search Bar:
 Enables users to easily find pets based on specific criteria, promoting a targeted and efficient search experience.
 o	Quiz Option:
