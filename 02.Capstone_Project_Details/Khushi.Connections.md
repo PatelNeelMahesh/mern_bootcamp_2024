@@ -19,7 +19,7 @@
 
 - How do you want to solve it?
 
-- This application will include people from around the world, not keeping the limit to make friends who are only around your locality. You can choose to find people having similar areas of interest as you. It also helps to make friends that may include a group of people and not just one person. Interaction can be done through chats or video-calls as per the likings of the individuals.
+   - This application will include people from around the world, not keeping the limit to make friends who are only around your locality. You can choose to find people having similar areas of interest as you. It also helps to make friends that may include a group of people and not just one person. Interaction can be done through chats or video-calls as per the likings of the individuals.
 
 - List of features you want to implement.
   - The features of the application include: login and signup pages, browsing profiles,search, filter option, chat, videocall, pictures uploading.
