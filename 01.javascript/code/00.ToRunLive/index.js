@@ -1,3 +1,4 @@
+console.log("Run JavaScript Code Here.");
 var name;
 let number;
 const address = [1,2,3];
@@ -6,5 +7,5 @@ console.log(address);
 
 var name = "Human";
 function hoisting(){
-    
+
 }
