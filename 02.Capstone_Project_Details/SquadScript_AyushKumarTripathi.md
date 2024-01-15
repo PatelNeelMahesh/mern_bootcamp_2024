@@ -38,3 +38,18 @@
   - 7. **Recording and Saving:**
     - Recording collaborative coding sessions.
     - Saving recordings locally.
+  - 8. **Whiteboard and Image Upload:**
+    - Whiteboard for collaborative drawings and annotations.
+    - Image uploading option for reference.
+  - 9. **Light Mode and Dark Mode:**
+    - Toggle between light and dark modes for user preference.
+  - 10. **File Transfer:**
+    - Ability to transfer files among participants.
+  - 11. **Video Call for up to 4 people:**
+    - Support for video calls with a maximum of 4 participants.
+  - 12. **Multiple People Editing Simultaneously:**
+    - Enabling multiple users to edit code simultaneously.
+  - 13. **Opening Multiple Editor Tabs Together:**
+    - Feature to open and work on multiple editor tabs concurrently.
+  - 14. **File Transfer Functionality:**
+    - Implementation of file transfer capabilities among users.
