@@ -19,7 +19,7 @@ There are may Student Organizations / Departments that have a large number of st
 ### - How do you want to solve it ?
 The main framework behind solving the problem statement is as below : 
 
-![alt text](https://github.com/Xta1neR/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/readme%20assets/Strategy%20and%20planning.png)
+![alt text](https://github.com/Xta1neR/mern_bootcamp_2024/blob/main/02.Capstone_Project_Details/Rituraj_ClubConnect/readme%20assets/Strategy%20and%20planning.png)
 
 The above Flowchart explains what is the hierarchy of Student Organization Clubs. So thus the website will be having the access to features for each specifics as below, starting from the bottom of hierarchy to the top is listed below. 
 
