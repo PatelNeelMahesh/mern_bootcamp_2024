@@ -12,7 +12,7 @@
 o	Petfinder (petfinder.com)
 o	Adopt A Pet (adoptapet.com)
 o	Petco (petco.com)
-o	PetSmart Charities (petsmartcharities.org
+o	PetSmart Charities (petsmartcharities.org)
 o	AKC Marketplace (marketplace.akc.org)
 o	Craigslist (craigslist.org)
 
