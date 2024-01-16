@@ -10,10 +10,10 @@
 
 * •What are existing similar solutions? *
 
-  - Notion (https://www.notion.so/)
-  - Obsidian (https://obsidian.md/)
-  - Joplin (https://joplinapp.org/)
-  - Microsoft OneNote (https://www.onenote.com/?public=1)
+  - Notion : (https://www.notion.so/)
+  - Obsidian : (https://obsidian.md/)
+  - Joplin : (https://joplinapp.org/)
+  - Microsoft OneNote : (https://www.onenote.com/?public=1)
 
 * •How do you want to solve it? *
 
