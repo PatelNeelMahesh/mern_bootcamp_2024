@@ -68,7 +68,7 @@ Explore interactive prototypes showcasing the user flow and interactions:
 
   ![Image 5](Assets/a5.png)
 
-  ![GIF 1](<Assets/vid A.gif>)
+  ![GIF 1](<Assets/Vid A.gif>)
 
 - [NFT Bazaar Designs]
 
@@ -78,13 +78,13 @@ Explore interactive prototypes showcasing the user flow and interactions:
 
   ![Image 3](Assets/b3.png)
 
-  ![GIF 1](<Assets/vid B.gif>)
+  ![GIF 1](<Assets/Vid B.gif>)
 
 - [Portfolio Designs]
 
   ![Image 1](Assets/dash.png)
 
-  ![GIF 1](<Assets/vid C.gif>)
+  ![GIF 1](<Assets/Vid C.gif>)
 
 ## Challenges and Solutions
 
