@@ -2,11 +2,11 @@
 
 ## Saurabh Singh 12110796
 
-### Project Name: The Serene Gardens
+### Project Name: Inn Sync
 
 - Which problem Project is Solving?
 
-  - The Serene Gardens project addresses the challenge of effectively managing a hotel by streamlining various operations through a web-based platform. This innovative solution tackles the complexities associated with tasks like user check-ins and check-outs, sales statistics, and other related processes. By offering a centralized system, the project aims to enhance efficiency, improve guest experiences, and optimize overall hotel management.
+  - Inn Sync project addresses the challenge of effectively managing a hotel by streamlining various operations through a web-based platform. This innovative solution tackles the complexities associated with tasks like user check-ins and check-outs, sales statistics, and other related processes. By offering a centralized system, the project aims to enhance efficiency, improve guest experiences, and optimize overall hotel management.
 
 - What are existing similar solutions?
 
@@ -16,7 +16,7 @@
 
 - How do you want to solve it?
 
-  - The Serene Gardens aims to provide a user-friendly and intuitive interface that will make it easy for hotel staff to manage hotel operations such as front bookings, housekeeping, and revenue management.
+  - Inn Sync aims to provide a user-friendly and intuitive interface that will make it easy for hotel staff to manage hotel operations such as front bookings, housekeeping, and revenue management.
   - Statistics on recent bookings, sales, check-ins, and occupancy rate.
   - The platform will be thoroughly tested to ensure that it is bug-free and stable.
   - Authentication and authorization features will be implemented to ensure that only actual hotel employees can get accounts.
