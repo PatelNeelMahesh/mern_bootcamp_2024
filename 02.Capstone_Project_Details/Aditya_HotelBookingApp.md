@@ -5,8 +5,9 @@
 ### Project Name: Hotel Booking App
 
 - Which problem Project is Solving?
-
+  
     My hotel booking web app is going to solve following problems:
+  
     1.Ease of Booking:
       Traditional methods of booking hotels might involve phone calls, emails, or walk-ins, which can be time-consuming and less efficient.
     
