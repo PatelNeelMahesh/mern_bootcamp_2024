@@ -1,0 +1,40 @@
+{
+  "cse": [
+    {
+      "course": "frontend",
+      "courseId": 1,
+      "cohort": 10,
+      "college": "LPU",
+      "semester": 2,
+      "averageRating": 0,
+      "studentsVoted": 0
+    },
+    {
+      "course": "backend",
+      "courseId": 2,
+      "cohort": 11,
+      "college": "GTU",
+      "semester": 3,
+      "averageRating": 9.25,
+      "studentsVoted": 12
+    },
+    {
+      "course": "design",
+      "courseId": 3,
+      "cohort": 10,
+      "college": "LPU",
+      "semester": 2,
+      "averageRating": 0,
+      "studentsVoted": 0
+    },
+    {
+      "course": "dsa",
+      "courseId": 4,
+      "cohort": 10,
+      "college": "VIT",
+      "semester": 2,
+      "averageRating": 4,
+      "studentsVoted": 3
+    }
+  ]
+}
