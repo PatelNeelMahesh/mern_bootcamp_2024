@@ -88,6 +88,6 @@
    - Real-time information on cryptocurrency prices and market trends
 
 4. **Quantum Forum:**
-   - Engaging community forum for discussions and knowledge sharing
+   - Engaging in community forums for discussions and knowledge-sharing
    - Topics covering various aspects of the crypto world
    - Integration with user profiles for personalized interactions
