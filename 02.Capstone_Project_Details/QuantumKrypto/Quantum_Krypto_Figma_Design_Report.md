@@ -48,8 +48,6 @@ Outlined below are some key design components used in the Quantum Krypto Figma d
    - User interface for accessing aggregated news and information.
    - ![Information Hub](URL)
 
-...
-
 ## Design System
 
 Utilized a cohesive design system to maintain consistency throughout the Quantum Krypto platform, focusing on simplicity and clarity.
@@ -58,17 +56,35 @@ Utilized a cohesive design system to maintain consistency throughout the Quantum
 
 Explore interactive prototypes showcasing the user flow and interactions:
 
-- [Quantum Krypto Designs]
+- [Quantum Hub Designs]
 
-  ![Image 1](Assets/1.png)
+  ![Image 1](Assets/a1.png)
 
-  ![Image 2](Assets/2.png)
+  ![Image 2](Assets/a2.png)
 
-  ![Image 3](Assets/3.png)
+  ![Image 3](Assets/a3.png)
 
-  ![Image 4](Assets/4.png)
+  ![Image 4](Assets/a4.png)
 
-  ![GIF 1](<Assets/vid 1.gif>)
+  ![Image 5](Assets/a5.png)
+
+  ![GIF 1](<Assets/vid A.gif>)
+
+- [NFT Bazaar Designs]
+
+  ![Image 1](Assets/b1.png)
+
+  ![Image 2](Assets/b2.png)
+
+  ![Image 3](Assets/b3.png)
+
+  ![GIF 1](<Assets/vid B.gif>)
+
+- [Portfolio Designs]
+
+  ![Image 1](Assets/dash.png)
+
+  ![GIF 1](<Assets/vid C.gif>)
 
 ## Challenges and Solutions
 
