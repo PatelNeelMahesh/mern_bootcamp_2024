@@ -6,30 +6,28 @@
 
 - Which problem Project is Solving?
 
-  My hotel booking web app is going to solve following problems:
-
-      1.Ease of Booking:
-        Traditional methods of booking hotels might involve phone calls, emails, or walk-ins, which can be time-consuming and less efficient.
-
-      2.Availability and Choices:
-        Limited information about available hotels, room types, and amenities can lead to uncertainty and difficulty in finding suitable accommodation.
-
-      3.Price Comparison:
-        Travelers may struggle to compare prices across different hotels or booking platforms to find the best deal.
-
-      4.Reviews and Ratings:
-        Lack of information about the quality of a hotel or guest experiences can make it challenging for travelers to make confident decisions.
-
-      5.Convenience and Time Savings:
-        Traditional booking methods may require significant time and effort, especially when planning a trip.
-        
-
-      6.Flexible Cancellation and Modification:
-        Changes in travel plans may result in cancellation or modification fees when booking directly with hotels.
-        
-      7.Deals and Discounts:
-        Travelers may miss out on potential discounts or special promotions offered by hotels.
-
+    My hotel booking web app is going to solve following problems:
+    1.Ease of Booking:
+      Traditional methods of booking hotels might involve phone calls, emails, or walk-ins, which can be time-consuming and less efficient.
+    
+    2.Availability and Choices:
+      Limited information about available hotels, room types, and amenities can lead to uncertainty and difficulty in finding suitable accommodation.
+    
+    3.Price Comparison:
+      Travelers may struggle to compare prices across different hotels or booking platforms to find the best deal.
+  
+    4.Reviews and Ratings:
+      Lack of information about the quality of a hotel or guest experiences can make it challenging for travelers to make confident decisions.
+    
+    5.Convenience and Time Savings:
+      Traditional booking methods may require significant time and effort, especially when planning a trip.
+     
+    6.Flexible Cancellation and Modification:
+      Changes in travel plans may result in cancellation or modification fees when booking directly with hotels.
+  
+    7.Deals and Discounts:
+      Travelers may miss out on potential discounts or special promotions offered by hotels.
+  
 
 - What are existing similar solutions?
 
@@ -90,5 +88,4 @@
 
     7.Booking Confirmation and Itinerary: 
       Users receive instant booking confirmations and detailed itineraries via email, providing all necessary details for their stay.
-
 
