@@ -20,7 +20,7 @@
     This platform will provide a platform to both the traditional & local ethnic producers from all over the India and the customer especially students to buy a better quality products at much more resonable price.
     Customer will be able to select types of the kurtas from the vast variety range of our products as per the choice of himself.
 
-- List of features you want to implement.
+- List of features  you want to implement.
 
   => Buying 
   => Cart for storing the products customer wants to buy 
