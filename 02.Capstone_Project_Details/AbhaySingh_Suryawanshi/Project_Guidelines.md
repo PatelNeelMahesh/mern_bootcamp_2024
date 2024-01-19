@@ -23,17 +23,17 @@ To address the identified challenges, our solution involves developing a web app
 <br> 
 
 ## **Steps for Implementing the Solution:**
-#### Front-end Development:
+##### Front-end Development:
 - Utilize the Figma design as a blueprint for the user interface.
 - Implement the design using ReactJS, creating modular and well-structured components.
 - Ensure a seamless and interactive user experience based on the design specifications.
 
-#### Back-end Development:
+##### Back-end Development:
 - Employ Node.js to establish an Express server for the back-end functionality.
 - Develop essential routes and APIs to facilitate communication between the server and the front-end.
 - Implement proper error handling and validation to enhance the robustness of the server.
 
-#### Database Integration:
+##### Database Integration:
 - Utilize MongoDB as the database to store user login credentials and manage personalized data.
 - Implement a schema to organize and store user-specific information, such as liked articles.
 - Establish secure connections between the server and the MongoDB database for efficient data retrieval and storage.
