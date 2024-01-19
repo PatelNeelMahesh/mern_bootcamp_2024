@@ -6,16 +6,16 @@ Current news platforms lack the flexibility users need for personalized news con
 
 
 ### Similar Existing Solutions:
-Google News:
-Personalized news based on preferences and browsing history.
+Google News:<br>
+Personalized news based on preferences and browsing history.<br>
 --> [Google News](https://news.google.com/) <--
 
-Flipboard:
-Curated news with a magazine-style layout.
+Flipboard:<br>
+Curated news with a magazine-style layout.<br>
 --> [Flipboard](https://flipboard.com/) <--
 
-Feedly:
-Aggregates news from various sources with customizable feeds.
+Feedly:<br>
+Aggregates news from various sources with customizable feeds.<br>
 --> [Feedly](https://feedly.com/) <--
 
 ### Methodology to be Adopted to Solve the Problem
@@ -40,38 +40,38 @@ To address the identified challenges, our solution involves developing a web app
 
 
 ### List Of Features:
-**User Authentication:**
+**User Authentication:**<br>
 Secure user registration and login functionality.Personalized News Feeds:
 Customizable options for date, country, category, and search queries to tailor news content.Interactive 
 
-**User Interface:**
+**User Interface:**<br>
 Engaging front-end design based on Figma prototypes for a seamless user experience.
 
-**Article Collections:**
+**Article Collections:**<br>
 Ability for users to save and organize liked articles into personalized collections.
 
-**Diverse News Sources:**
+**Diverse News Sources:**<br>
 Integration of multiple news sources to provide a comprehensive and varied news selection.
 
-**Search Functionality:**
+**Search Functionality:**<br>
 Robust search feature enabling users to find articles based on specific keywords or topics.
 
-**Responsive Design:**
+**Responsive Design:**<br>
 Ensure compatibility and optimal user experience across various devices and screen sizes.
 
-**User Profile Management:**
+**User Profile Management:**<br>
 Allow users to manage their profiles, update preferences, and track their saved articles.
 
-**Backend APIs:**
+**Backend APIs:**<br>
 Well-defined backend APIs and routes to facilitate seamless communication between the front-end and back-end.
 
-**Database Management:**
+**Database Management:**<br>
 Efficient storage and retrieval of user data, including login credentials and saved article information, using MongoDB.
 
-**Error Handling and Validation:**
+**Error Handling and Validation:**<br>
 Implement robust error handling and validation mechanisms to enhance the overall reliability and security of the application.
 
-**Feedback Mechanism:**
+**Feedback Mechanism:**<br>
 Provide a feedback mechanism for users to report issues, suggest improvements, or offer comments on the platform.
 
 By adhering to this approach, our project endeavors to simplify the experience of accessing personalized news content, offering a user-friendly and dependable platform for individuals seeking information, whether they are readers or content contributors.
