@@ -23,7 +23,9 @@
 
 - List of features you want to implement.
 
-     - user can list and unlist 
+      - user can list and unlist 
       -  messaging system that enables seamless communication between buyers and sellers.
       - user authentication for listing and buying
+      - Secure Payment Integration
+      - Comprehensive Property Information with images
 
