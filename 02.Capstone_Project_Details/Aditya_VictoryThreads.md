@@ -1,0 +1,26 @@
+# Project Initial Report
+
+## Add your Name & Registration Number
+  Aditya Raj
+  12110346
+
+### Project Name: Jersey(online platform for selling sports jerseys)
+
+- Which problem Project is Solving?
+
+  - There are several website selling sports jerseys but not for all sports ; 
+  .  Make a website containing every feature possible like Home, Custom, Wishlist/favorite, Bag, Login, SignUp ,Payment gateway etc.
+
+- What are existing similar solutions?
+
+  - [Here you should provide list of solution, with sublist of similar existing feaures.]
+  Football monk
+  club jerseys
+  The Jersey street
+
+- How do you want to solve it?
+
+  - [I have created the frontend of this website using html,css and vanilla javascript , will try to convert it into a MERN stack project]
+
+- List of features you want to implement.
+  - [Home, Custom, Wishlist/favorite, Bag, Login, SignUp ,Payment gateway etc.]
