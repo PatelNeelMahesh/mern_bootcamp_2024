@@ -1,45 +1,45 @@
-## Name: Abhay Singh Suryawanshi | 12105660
+# Name: Abhay Singh Suryawanshi | 12105660
 
-## Title : Get My News
-### Target Problem To Be Solved:
+# Title : Get My News
+## Target Problem To Be Solved:
 Current news platforms lack the flexibility users need for personalized news consumption. There is a demand for a free web app that offers diverse news sources, customizable options for date, country, category, and search queries. Additionally, users lack a platform to save and organize their preferred articles. This capstone project aims to develop a user-friendly web app addressing these limitations, providing a seamless and personalized news experience, along with the ability to curate and save articles to personal collections.
 
 
-### Similar Existing Solutions:
+## Similar Existing Solutions:
 Google News:<br>
 Personalized news based on preferences and browsing history.<br>
---> [Google News](https://news.google.com/) <--
+[Google News](https://news.google.com/)
 
 Flipboard:<br>
 Curated news with a magazine-style layout.<br>
---> [Flipboard](https://flipboard.com/) <--
+[Flipboard](https://flipboard.com/)
 
 Feedly:<br>
 Aggregates news from various sources with customizable feeds.<br>
---> [Feedly](https://feedly.com/) <--
+[Feedly](https://feedly.com/)
 
-### Methodology to be Adopted to Solve the Problem
+## Methodology to be Adopted to Solve the Problem
 To address the identified challenges, our solution involves developing a web application using the MERN stack. The interactive user interface will be built with React, providing a seamless and engaging front-end experience. The backend, powered by Node.js and Express, will manage user data and news content. MongoDB will serve as the database to store and organize essential user information, ensuring efficient data management for the personalized news consumption experience.
 <br> 
 
 **Steps for Implementing the Solution:**
-#### Front-end Development:
+### Front-end Development:
 - Utilize the Figma design as a blueprint for the user interface.
 - Implement the design using ReactJS, creating modular and well-structured components.
 - Ensure a seamless and interactive user experience based on the design specifications.
 
-#### Back-end Development:
+### Back-end Development:
 - Employ Node.js to establish an Express server for the back-end functionality.
 - Develop essential routes and APIs to facilitate communication between the server and the front-end.
 - Implement proper error handling and validation to enhance the robustness of the server.
 
-#### Database Integration:
+### Database Integration:
 - Utilize MongoDB as the database to store user login credentials and manage personalized data.
 - Implement a schema to organize and store user-specific information, such as liked articles.
 - Establish secure connections between the server and the MongoDB database for efficient data retrieval and storage.
 
 
-### List Of Features:
+## List Of Features:
 **User Authentication:**<br>
 Secure user registration and login functionality.Personalized News Feeds:
 Customizable options for date, country, category, and search queries to tailor news content.Interactive 
