@@ -1,7 +1,8 @@
 Rhythm Jain reg no 12106362
 Travel blog and planning website
 
-Project name : Wanderlust
+Project name :   Wanderlust
+
 
 -Which problem project is solving?
  A travel planning and blogging website addresses several challenges and fulfills various needs for both travelers and content creators. Here are some of the problems that these websites aim to solve:
