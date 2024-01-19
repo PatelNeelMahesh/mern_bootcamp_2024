@@ -22,7 +22,7 @@ Aggregates news from various sources with customizable feeds.<br>
 To address the identified challenges, our solution involves developing a web application using the MERN stack. The interactive user interface will be built with React, providing a seamless and engaging front-end experience. The backend, powered by Node.js and Express, will manage user data and news content. MongoDB will serve as the database to store and organize essential user information, ensuring efficient data management for the personalized news consumption experience.
 <br> 
 
-**Steps for Implementing the Solution:**
+## **Steps for Implementing the Solution:**
 ## Front-end Development:
 - Utilize the Figma design as a blueprint for the user interface.
 - Implement the design using ReactJS, creating modular and well-structured components.
