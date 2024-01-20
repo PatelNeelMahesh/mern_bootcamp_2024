@@ -56,13 +56,21 @@ app.get("/courses", (req, res) => {
 // GET - Details of a specific course by name
 app.get("/courses/:courseName", (req, res) => {
   const course = courses.cse.find((c) => c.course === req.params.courseName);
-  res.json(course);
+  if (!course) {
+    res.status(404).send("Course not found");
+  } else {
+    res.json(course);
+  }
 });
 
 // GET - Average rating of a specific course
 app.get("/courses/:courseName/rating", (req, res) => {
   const course = courses.cse.find((c) => c.course === req.params.courseName);
-  res.json({ averageRating: course.averageRating });
+  if (!course) {
+    res.status(404).send("Course not found");
+  } else {
+    res.json({ averageRating: course.averageRating });
+  }
 });
 
 // POST - Create a new course
@@ -74,13 +82,16 @@ app.post("/courses", (req, res) => {
 // POST - Add a rating to a course
 app.post("/courses/:courseName/rating", (req, res) => {
   const course = courses.cse.find((c) => c.course === req.params.courseName);
-
-  const rating = req.body.rating;
-  course.averageRating =
-    (course.averageRating * course.studentsVoted + rating) /
-    (course.studentsVoted + 1);
-  course.studentsVoted++;
-  res.send(`Rating updated ${rating}`);
+  if (!course) {
+    res.status(404).send("Course not found");
+  } else {
+    const rating = req.body.rating;
+    course.averageRating =
+      (course.averageRating * course.studentsVoted + rating) /
+      (course.studentsVoted + 1);
+    course.studentsVoted++;
+    res.send("Rating updated");
+  }
 });
 
 // PUT - Modify information of a course
@@ -88,8 +99,43 @@ app.put("/courses/:courseName", (req, res) => {
   const index = courses.cse.findIndex(
     (c) => c.course === req.params.courseName
   );
-  courses.cse[index] = { ...courses.cse[index], ...req.body };
-  res.send("Course updated");
+  if (index === -1) {
+    res.status(404).send("Course not found");
+  } else {
+    courses.cse[index] = { ...courses.cse[index], ...req.body };
+    res.send("Course updated");
+  }
+});
+
+// PATCH - Update partial information of a course
+app.patch("/courses/:courseName", (req, res) => {
+  const index = courses.cse.findIndex(
+    (c) => c.course === req.params.courseName
+  );
+  if (index === -1) {
+    res.status(404).send("Course not found");
+  } else {
+    const courseToUpdate = courses.cse[index];
+    // Update specific fields if they exist in the request body
+    if (req.body.cohort) courseToUpdate.cohort = req.body.cohort;
+    if (req.body.college) courseToUpdate.college = req.body.college;
+    if (req.body.semester) courseToUpdate.semester = req.body.semester;
+
+    res.send("Course partially updated");
+  }
+});
+
+// DELETE - Remove a course by name
+app.delete("/courses/:courseName", (req, res) => {
+  const index = courses.cse.findIndex(
+    (c) => c.course === req.params.courseName
+  );
+  if (index === -1) {
+    res.status(404).send("Course not found");
+  } else {
+    courses.cse.splice(index, 1);
+    res.send("Course deleted");
+  }
 });
 
 app.get("/*", (req, res) => {
