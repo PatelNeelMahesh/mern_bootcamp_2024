@@ -2,104 +2,47 @@
 # Registration Number: 12115390
 #
 # Project Name
-**GameHub: Let's Play**
+**Gigex: Freelance Services Marketplace**
 
-## Introduction
-GameHub is a comprehensive video streaming platform designed exclusively for gamers, bringing together a vibrant community of streamers and viewers. With a focus on interactivity, real-time engagement, and a user-friendly experience, GameHub aims to redefine the gaming streaming landscape.
+## Introduction:
+Gigex is a comprehensive MERN Stack-powered Freelance Services Marketplace, designed to connect talented freelancers with clients seeking top-notch services. With a user-friendly interface and a robust set of features, Gigex ensures a seamless experience for both freelancers and clients.
 
-## Target Problem To Be Solved
-Traditional streaming platforms may lack specific features tailored to the gaming community's needs. GameHub addresses this gap by providing a platform that seamlessly integrates gaming-related functionalities, fostering a more immersive and engaging experience for both streamers and viewers.
+## Target Problem To Be Solved:
+Addressing the hassle of finding reliable freelance services and streamlining the hiring process for clients, while providing freelancers with a platform to showcase their skills and grow their businesses.
 
-## Similar Existing Solutions
-While [Twitch](https://www.twitch.tv/), [YouTube](https://www.youtube.com/), and [Facebook Gaming](https://www.facebook.com/gaming/) dominate the video streaming space, GameHub distinguishes itself by offering a specialized set of features tailored to gamers. It combines the best elements of existing platforms while introducing innovative solutions specifically designed for the gaming community.
+## Similar Existing Solutions:
+- [Fiverr](https://www.fiverr.com/)
+- [Upwork](https://www.upwork.com/)
+- [Freelancer](https://www.freelancer.com/)
 
-## Methodology to be Adopted to Solve the Problem
-GameHub employs the MERN (MongoDB, Express.js, React.js, Node.js) stack to ensure a robust and scalable solution. The platform leverages real-time communication through sockets for features like live chat, live viewer count, and stream status updates. The use of Next.js ensures efficient server-side rendering (SSR) for a blazing-fast application, contributing to a seamless user experience.
+## Methodology to be Adopted to Solve the Problem:
+Utilizing the MERN Stack (MongoDB, Express.js, React, Node.js) to create a scalable, responsive, and efficient Freelance Services Marketplace. Employing user-friendly interfaces and robust authentication mechanisms to enhance the overall user experience.
 
-## List Of Features
+## List Of Features:
+1. **Auth API:** Implement authentication through a secure API.
+2. **Dashboard:** User's main interface displaying relevant information and actions.
+3. **Edit Gigs:** Allow users to modify and update their gig listings.
+4. **Gig Page:** Individual page showcasing details of a specific gig.
+5. **Create Gig Page:** Interface for users to add new gigs to the platform.
+6. **Gigs Search:** A search functionality to find relevant gigs based on keywords or categories.
+7. **Login Functionality:** User authentication system.
+8. **Messages:** Enable communication between buyers and sellers.
+9. **Navbar UI:** Navigation bar for easy access to different sections of the platform.
+10. **Orders Page:** Overview of current and past orders for users.
+11. **Profile Page:** Personalized page for users to manage their account information.
+12. **Register Functionality (MongoDB):** User registration and data storage using MongoDB.
+13. **Seller Orders Page:** Specialized page for sellers to manage their orders.
+14. **Show Gigs:** Display a list of available gigs for users to explore.
+15. **Social Login:** Allow users to log in using their social media accounts.
+16. **Add Reviews and Ratings:** Enable users to provide feedback and ratings for completed gigs.
+17. **Auth UI:** User interface design for a seamless authentication experience.
+18. **Order:** Core functionality for placing and managing orders.
+19. **Gig Categories:** Categorize gigs into different types (e.g., writing, programming, design).
+20. **Payment Gateway:** Integration of a secure payment system for transactions.
+21. **User Notifications:** Notify users of important events, such as new messages or completed orders.
+22. **Featured Gigs:** Highlight certain gigs as featured for better visibility.
+23. **Analytics Dashboard:** Provide users with insights into their performance and statistics.
+24. **Mobile Responsiveness:** Ensure the platform is accessible and user-friendly on various devices.
+25. **FAQ Section:** Address common user queries through a Frequently Asked Questions section.
 
-### Core Features
-1. **Connecting Next.js app to OBS / Streaming Software**
-   - Seamless integration for easy setup and compatibility.
-
-2. **Authentication**
-   - Secure user accounts with features like login, registration, and password recovery.
-
-3. **Thumbnail Upload**
-   - Allow content creators to upload custom thumbnails for their streams.
-
-4. **Live Viewer Count**
-   - Display real-time viewer count to creators and viewers.
-
-5. **Live Statuses**
-   - Indicate live statuses clearly for each stream.
-
-6. **Real-time Chat using Sockets**
-   - Enable live interaction among viewers and creators.
-
-7. **Unique Color for Each Viewer in Chat**
-   - Enhance chat experience with distinct colors for each user.
-
-8. **Following System**
-   - Enable users to follow their favorite creators.
-
-9. **Blocking System**
-   - Provide a mechanism for users to block unwanted interactions.
-
-10. **Kicking Participants in Real-Time**
-    - Empower creators to manage participants during a live stream.
-
-### Streamer / Creator Dashboard
-11. **Slow Chat Mode**
-    - Allow creators to set a slow mode for chat interactions.
-
-12. **Followers Only Chat Mode**
-    - Create an exclusive chat for followers.
-
-13. **Enable / Disable Chat**
-    - Grant control to creators to manage chat visibility.
-
-14. **Collapsible Layout**
-    - Provide flexibility to hide sidebars, chat, and enter theatre mode.
-
-### User Experience Enhancements
-15. **Sidebar Following & Recommendations Tab**
-    - Enable users to discover and follow content creators easily.
-
-16. **Home Page Recommendations**
-    - Display recommended streams, sorted by live status.
-
-17. **Search Results Page with Different Layout**
-    - Enhance user experience when searching for streams.
-
-18. **Syncing User Information using Webhooks**
-    - Keep user data updated through webhook integration.
-
-19. **Syncing Live Status Information using Webhooks**
-    - Ensure real-time updates on stream statuses.
-
-### Community Building
-20. **Community Tab**
-    - Facilitate a space for users to engage in discussions and activities.
-
-### Design and Performance
-21. **Beautiful Design**
-    - Prioritize a visually appealing and user-friendly interface.
-
-22. **Blazing Fast Application**
-    - Optimize performance for quick load times.
-
-23. **Server-Side Rendering (SSR)**
-    - Implement SSR for enhanced performance and SEO.
-
-24. **Grouped Routes & Layouts**
-    - Organize routes and layouts for a structured user journey.
-
-### Database and Deployment
-25. **MySQL**
-    - Utilize MySQL for structured and scalable data storage.
-
-26. **Deployment**
-    - Optimize deployment processes for a seamless user experience.
-
-GameHub aims to be the go-to platform for gamers, combining cutting-edge technology with a user-centric design to create an unparalleled streaming experience.
+Gigex ensures a seamless and efficient marketplace for freelancers and clients alike, fostering a community of collaboration and success.
