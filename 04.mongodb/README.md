@@ -4,8 +4,6 @@
 
 - Youtube Video Link: https://www.youtube.com/watch?v=rU9ZODw5yvU
 - Presentation Link: https://api.thapatechnical.shop/uploads/images/1693746330937-MongoDB%20Course.pdf
-- Link to JSON Import Files: https://shorturl.at/jpSY2
-- Link to Source Code: https://shorturl.at/nANOP
 - Link to ThapaTechnical Website: https://thapatechnical.shop/courses/mongodb-crash-course
 
 ## Perform Operations
