@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const uri = "mongodb://127.0.0.1:27017/lallaland"; // Replace 'myDatabase' with your database name
+const uri = "mongodb://127.0.0.1:27017/NewDB"; // Replace 'myDatabase' with your database name
 
 mongoose
   .connect(uri)
