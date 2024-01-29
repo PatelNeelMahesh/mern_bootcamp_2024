@@ -1,4 +1,5 @@
 import ListElements from "./html/ListElements"
+import TableElements from "./html/TableElements"
 import TextElements from "./html/TextElements"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       {/* <TextElements/> */}
       {/* <ListElements/> */}
+      {/* <TableElements/> */}
     </>
   )
 }
