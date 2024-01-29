@@ -1,0 +1,11 @@
+/* MediaElements.css */
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  audio,
+  video {
+    margin-top: 20px;
+  }
+  

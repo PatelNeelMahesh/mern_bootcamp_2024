@@ -1,5 +1,5 @@
 import React from 'react';
-import './FormElements.css';
+import '../css/FormElements.css';
 
 function FormElements() {
   return (
@@ -20,7 +20,7 @@ function FormElements() {
       <label>
         Country:
         <select name="country">
-          <option value="usa">USA</option>
+          <option value="india">India</option>
           <option value="canada">Canada</option>
           {/* Additional options */}
         </select>
