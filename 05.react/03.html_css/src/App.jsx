@@ -1,3 +1,4 @@
+import AnimationComponents from "./html/AnimationComponents"
 import FormElements from "./html/FormElements"
 import InteractiveElements from "./html/InteractiveElements"
 import LayoutComponents from "./html/LayoutComponents"
@@ -17,6 +18,7 @@ function App() {
       {/* <MediaElements/> */}
       {/* <InteractiveElements/> */}
       {/* <LayoutComponents/> */}
+      <AnimationComponents/>
 
     </>
   )
