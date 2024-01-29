@@ -1,4 +1,6 @@
 import FormElements from "./html/FormElements"
+import InteractiveElements from "./html/InteractiveElements"
+import LayoutComponents from "./html/LayoutComponents"
 import ListElements from "./html/ListElements"
 import MediaElements from "./html/MediaElements"
 import TableElements from "./html/TableElements"
@@ -11,8 +13,10 @@ function App() {
       {/* <TextElements/> */}
       {/* <ListElements/> */}
       {/* <TableElements/> */}
-      <FormElements/>
-      <MediaElements/>
+      {/* <FormElements/> */}
+      {/* <MediaElements/> */}
+      {/* <InteractiveElements/> */}
+      {/* <LayoutComponents/> */}
 
     </>
   )

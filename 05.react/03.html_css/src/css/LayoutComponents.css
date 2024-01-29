@@ -1,0 +1,26 @@
+/* LayoutComponents.css */
+.flexbox-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .flex-item {
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 10px;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .grid-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+  }
+  

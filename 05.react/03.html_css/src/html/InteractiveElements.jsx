@@ -1,5 +1,5 @@
 import React from 'react';
-import './InteractiveElements.css';
+import '../css/InteractiveElements.css';
 
 function InteractiveElements() {
   return (
