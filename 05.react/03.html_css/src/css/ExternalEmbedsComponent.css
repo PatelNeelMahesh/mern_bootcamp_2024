@@ -1,0 +1,11 @@
+/* ExternalEmbedsComponent.css */
+.external-embeds {
+    margin: 20px 0;
+  }
+  
+  .external-embeds iframe {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 20px;
+  }
+  
