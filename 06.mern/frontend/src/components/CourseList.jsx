@@ -22,11 +22,7 @@ function CourseList() {
       <ul>
         {courses.map((course) => (
           <li key={course.courseId}>
-            <Link to={`/courses/${course.course}`}>{course.course}</Link>
-            {' '}
-            | <Link to={`/courses/edit/${course.course}`}>Edit</Link>
-            {' '}
-            | <Link to={`/courses/delete/${course.course}`}>Delete</Link>
+            {course.course}
           </li>
         ))}
       </ul>
