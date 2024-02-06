@@ -1,10 +1,12 @@
 const express = require("express");
+const cors = require("cors");
 require("dotenv").config();
 const app = express();
 const port = process.env.PORT;
 
 // Middleware to parse JSON body in requests
 app.use(express.json());
+app.use(cors());
 
 // In-memory "database"
 let courses = {
