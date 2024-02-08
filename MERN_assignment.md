@@ -109,3 +109,13 @@ Your project statement has already been finalized. The task is to implement the 
 - Bonus: Implementation of the bonus task will be a plus.
 
 Good luck with your assignment!
+
+# Frontend Tasks
+
+- React tostify: https://www.npmjs.com/package/react-toastify
+- Mui Alerts
+- 404 Page, Using Spline [https://spline.design/]
+- React Pagination: [https://mui.com/material-ui/react-pagination/]
+- React Infinite Scorll: [https://www.npmjs.com/package/react-infinite-scroll-component] [https://blog.logrocket.com/3-ways-implement-infinite-scroll-react/]
+- Shimmer Effect in react
+- React Loader
