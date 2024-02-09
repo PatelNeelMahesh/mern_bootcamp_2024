@@ -4,6 +4,7 @@ import AddCourse from "./components/AddCourse";
 import RateCourse from "./components/RateCourse";
 import EditCourse from "./components/EditCourse";
 import DeleteCourse from "./components/DeleteCourse";
+import Cloudinary from './Cloudinary';
 const apiKey = import.meta.env.VITE_REACT_APP_DOMAIN;
 
 function App() {
@@ -11,13 +12,13 @@ function App() {
   return (
     <>
       <div>
-        App Component
-        <CourseList/>
+        <Cloudinary/>
+        {/* <CourseList/>
         <CourseDetails/>
         <AddCourse/>
         <RateCourse/>
         <EditCourse/>
-        <DeleteCourse/>
+        <DeleteCourse/> */}
       </div>
     </>
   )
